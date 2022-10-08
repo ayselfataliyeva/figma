@@ -1,0 +1,17 @@
+body{
+    margin:0 auto;
+    padding:0;
+}
+.wrapper{
+    width: 90%;
+    font-weight: bold;
+}
+header{
+    font-size: 55px;
+}
+section{
+    display: flex;
+}
+footer{
+    display: flex;
+}
